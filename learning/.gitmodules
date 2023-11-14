@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>hello coursera</title>
-</head>
-<body>
-<h1>Hello Coursera! kjkjkjkj</h1>
-</body>
-</html>
+[submodule "coursera/Etzdonsmartz"]
+	path = coursera/Etzdonsmartz
+	url = https://github.com/Etzdonsmartz/coursera.git
